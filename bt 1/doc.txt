@@ -1,0 +1,7 @@
+font-family: 'PT Sans',sans-serif;
+
+
+black #010101
+ash #898989
+yello #fcdb00
+ 
