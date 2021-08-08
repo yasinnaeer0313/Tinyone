@@ -1,0 +1,266 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	/*header start*/
+	header{
+		padding: 10px 0;
+	}
+.menu ul li a{
+	
+    padding: 10px 0 0 !important;
+    font-size: 20px;
+    text-align: right;
+}
+.slider{
+	padding-bottom: 70px; 
+}
+.cid{ 
+	bottom: -64px;
+}
+.cid [data-bs-target] {
+	width: 13px;
+	height: 13px;
+}
+.c_text { 
+	margin-top: 20px;
+}
+.c_text h1{
+	margin-bottom: 10px;
+	font-size: 25px;
+	
+} 
+.c_text h2{
+	margin-right: 0;
+	margin-bottom: 10px;
+	    font-size: 18px;
+ }
+
+.c_text p{
+	margin-right: 0;
+	margin-bottom: 20px; 
+}
+
+.icon li{
+		margin-right: 15px !important;
+}
+.icon li i{
+		font-size: 35px;
+}
+/*feature start*/
+	.feature{
+	padding-top: 50px;
+	padding-bottom: 70px; 
+}
+
+	.cm_h1{
+		font-size: 25px;
+
+	}
+	.cm_text {
+		font-size: 17px;
+	}
+	.s_feature{
+		margin-top: 30px;
+		text-align: center;
+	}
+	.f_icon i{
+		font-size: 40px;
+
+	}
+	/*contact start*/
+.contact {
+ 
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.c_form {
+    margin-top: 35px;
+    margin-bottom: 45px;
+}
+.u_email{
+	height: 45px;
+}
+.u_submit{
+	height: 45px;
+}
+.c_icon ul li {
+	margin-right: 20px !important
+}
+.c_icon ul li a{
+width: 35px;
+height: 35px;
+}
+.c_icon ul li a i{
+	font-size: 30px;
+}
+/*footerstart*/
+    footer{
+    	padding-bottom: 70px;
+    }
+    .f_1{
+    	text-align: center;
+    	
+
+    }
+    .f_2{
+    	margin-top: 30px;
+    	text-align: center;
+    	
+
+    }
+
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	/*header start*/
+	header{
+		padding: 10px 0;
+	}
+.menu ul li a{
+	
+    padding: 10px 0 0 !important;
+    font-size: 20px;
+    text-align: right;
+}
+/*slider start*/
+.slider{
+	padding-bottom: 70px; 
+}
+.cid{ 
+	bottom: -60px;
+}
+.cid [data-bs-target] {
+	width: 13px;
+	height: 13px;
+}
+.c_text { 
+	margin-top: 25px;
+}
+.c_text h1{
+	margin-bottom: 10px;
+	font-size: 32px;
+	
+} 
+.c_text h2{
+	margin-right: 0;
+	margin-bottom: 15px; }
+
+.c_text p{
+	margin-right: 0;
+	margin-bottom: 25px; }
+	.icon li{
+		margin-right: 20px !important;
+	}
+	.icon li i{
+		font-size: 35px;
+	}
+	/*feature start*/
+	.feature{
+	padding-top: 50px;
+	padding-bottom: 70px; }
+	.cm_h1{
+		font-size: 25px;
+
+	}
+	.cm_text {
+		font-size: 18px;
+	}
+	.s_feature{
+		margin-top: 30px;
+		text-align: center;
+	}
+	.f_icon i{
+		font-size: 40px;
+
+	}
+	/*contact start*/
+.contact {
+ 
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.c_form {
+    margin-top: 35px;
+    margin-bottom: 45px;
+}
+.u_email{
+	height: 45px;
+}
+.u_submit{
+	height: 45px;
+}
+.c_icon ul li {
+	margin-right: 20px !important
+}
+.c_icon ul li a{
+width: 35px;
+height: 35px;
+}
+.c_icon ul li a i{
+	font-size: 30px;
+}
+ /*footerstart*/
+    footer{
+    	padding-bottom: 70px;
+    }
+    .f_1{
+    	text-align: center;
+    	margin-bottom: 30px;
+
+    }
+    .f_2{
+    	text-align: center;
+    	
+
+    }
+
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	/*header start*/
+.menu ul li a{
+	
+    padding: 10px 0 0 !important;
+    text-align: right;
+}
+/*slider start*/
+.c_text {
+ margin-top: 40px;
+}
+/*feature start*/
+.feature{
+	padding-top: 80px;
+	padding-bottom: 100px;
+}
+.s_feature {
+    margin-top: 45px;
+}
+/*contact start*/
+.contact {
+ 
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+.c_form {
+    margin-top: 40px;
+    margin-bottom: 45px;
+    }
+    /*footerstart*/
+    footer{
+    	padding-bottom: 100px;
+    }
+    
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {  
+}
+
+/*X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1199.98px) { 
+ }
+
+ /*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+ }  
